@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<<<<<<< HEAD
 <!--
-=======
->>>>>>> 6afbca0... '个人简历'
 **perfect-code-hzy/perfect-code-hzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,9 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<<<<<<< HEAD
 -->
-=======
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=perfect-code-hzy)](https://github.com/perfect-code-hzy/github-readme-stats)
->>>>>>> 6afbca0... '个人简历'
+[![Mr.Hu's github stats](https://github-readme-stats.vercel.app/api?username=perfect-code-hzy)](https://github.com/perfect-code-hzy/github-readme-stats)
